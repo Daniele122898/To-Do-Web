@@ -71,6 +71,10 @@ li:hover span{
     float:right;
 }
 
+.fa-angle-down{
+    float:right;
+}
+
 #container{
     width: 360px;
     margin: 100px auto;
